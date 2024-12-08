@@ -99,6 +99,10 @@ The images were preprocessed to ensure compatibility with the models:
    ```bash
    pip install -r requirements.txt
    ```
+   1. Replace <your_path> with Your path on google drive or any thing else.
+   ```bash
+   <your_path>
+   ```
 3. Run the training script.
    ```bash
    python data_science.py
