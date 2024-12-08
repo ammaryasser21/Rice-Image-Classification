@@ -82,12 +82,12 @@ The images were preprocessed to ensure compatibility with the models:
 ## Confusion Matrices
 
 ### Pretrained Model
-![Confusion Matrix - Pretrained Model](![image](https://github.com/user-attachments/assets/9c99739d-d701-4b09-b1f4-d25272172a00)
-)
+![image](https://github.com/user-attachments/assets/9c99739d-d701-4b09-b1f4-d25272172a00)
+
 
 ### Custom CNN Model
-![Confusion Matrix - Custom Model](![image](https://github.com/user-attachments/assets/26cf189f-3456-4c3a-aef0-f31bce6db71d)
-)
+![image](https://github.com/user-attachments/assets/26cf189f-3456-4c3a-aef0-f31bce6db71d)
+
 
 ## How to Use
 1. Clone this repository.
